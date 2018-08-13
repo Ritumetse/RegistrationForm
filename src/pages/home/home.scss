@@ -1,3 +1,27 @@
 page-home {
+    .Registration{
+        background-image: url('../../assets/imgs/back.jpg');
+        background-repeat :no-repeat;
+        background-size:cover;
+       }
+       ion-item {
+        background-color: red;
+    }
+       p{
+           color:red
+       }
+       .username{
+        background-color: transparent;
+        color:black;
+    }
+    .name{
+        background-color: transparent;
+    }
+    .password{
+        background-color: transparent;
+    
+    }
+
 
 }
+
